@@ -24,3 +24,8 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+*.tsv
+
+# Exported files
+*.pdf
+*
